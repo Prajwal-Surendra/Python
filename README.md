@@ -6,6 +6,7 @@
  ​  
  ​  
  ​def​ ​display_menu​(): 
+
  ​    ​print​(​"--------------------------------------"​) 
  ​    ​print​(​" Welcome to Student Management System"​) 
  ​    ​print​(​"---------------------------------------"​) 
